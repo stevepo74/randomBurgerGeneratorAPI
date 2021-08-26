@@ -1,2 +1,2 @@
-# randomBurgerGeneratorAPI
+# fetch
 Created with CodeSandbox

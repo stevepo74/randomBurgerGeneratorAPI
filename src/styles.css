@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  background-color: lightgreen;
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.name {
+  width: 400px;
+  border-radius: 100px;
+  background-color: lightsalmon;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  padding: 30px 0px;
+}
+
+.button {
+  margin-left: 130px;
+  margin-top: 20px;
+  border: 0;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #ef866c;
+  width: 110px;
+  border-radius: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.button:hover {
+  color: rgb(250, 245, 245);
+}
+
+.button:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6);
+}
